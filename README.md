@@ -1,0 +1,1 @@
+HTML skeleton and JS examples in notes (.txt) to follow along and explore throughout the discussion. Link to the presentaion: https://docs.google.com/presentation/d/1JixkarWRO2vWm_wvsjiyLp3tp9URLZunOKJge2qKdmQ/edit?usp=sharing
